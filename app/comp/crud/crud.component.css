@@ -1,0 +1,26 @@
+button{
+  margin: 5px;
+}
+.card{
+  background-color:blanchedalmond;
+  width: 50rem;
+  margin-left: 260px;
+  margin-top: 20px;
+
+}
+
+input,label{
+  width: 40rem;
+  margin-left: 100px;
+  font-weight: bold;
+  
+
+}
+
+
+.card-title{
+  font-weight: bold;
+  margin-left: 350px;
+  font-size:25px;
+
+}
